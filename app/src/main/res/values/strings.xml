@@ -2,4 +2,6 @@
     <string name="app_name">AppBarApp</string>
     <string name="action_favorite">action_favorite</string>
     <string name="action_settings">action_settings</string>
+    <string name="action_search">action_search</string>
+    <string name="share">share</string>
 </resources>
